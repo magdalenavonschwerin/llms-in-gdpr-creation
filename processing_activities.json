@@ -1,0 +1,307 @@
+[{
+        "input": "3G Regulation in the Workplace",
+        "output": "1. Personal Data\n2. Date of Inspection\n3. Proof Status\n4. Expiry Date of Vaccination and Recovery Status\n5. Optional: Copy of Proof/Certificate"
+    },{
+        "input": "Absence Time Tracking",
+        "output": "1. Working Hours\n2. Professional Position\n3. Health Insurance Number\n4. Sick Days (special category according to Art. 9 GDPR)\n5. Last Name\n6. First Name\n7. Employee Number\n8. Vacation Entitlement\n9. Vacation Days\n10. Vacation Periods"
+    },{
+        "input": "Agencies",
+        "output": "1. Address Data\n2. Offer Data\n3. Bank Account Data\n4. Order Data\n5. Email Address\n6. Incoming Invoice\n7. Communication Data\n8. Last Name\n9. First Name\n10. Phone Number"
+    },{
+        "input": "File Creation",
+        "output": "1. Address Data\n2. Client Data\n3. Email Address\n4. Communication Data\n5. Last Name\n6. First Name\n7. Schedule Data\n8. Phone Number"
+    },{
+        "input": "Offer Creation",
+        "output": "1. Address Data\n2. Offer Data"
+    },{
+        "input": "Order Acceptance via a Web Portal",
+        "output": "1. Address Data\n2. ID Data / Passport Data\n3. Bank Account Data\n4. Order Data\n5. Date and Time of Inquiry\n6. Email Address\n7. Gender\n8. IP Address\n9. Customer Number\n10. Delivery Conditions\n11. Last Name\n12. First Name\n13. Phone Number\n14. Payment Data"
+    },{
+        "input": "App and Software Development",
+        "output": "1. Email Address\n2. IP Address\n3. Communication Data\n4. Last Name\n5. First Name\n6. Username\n7. Usage Behavior"
+    },{
+        "input": "Occupational Safety",
+        "output": "1. Address Data\n2. Gender\n3. Health Data (special category according to Art. 9 GDPR)\n4. Last Name\n5. First Name"
+    },{
+        "input": "Employment Contracts",
+        "output": "1. Address Data\n2. Bank Account Data\n3. Joining Date\n4. Professional Position\n5. Date of Birth\n6. Email Address\n7. Monthly Salaries\n8. Monthly Wages\n9. Last Name\n10. First Name\n11. Employee Number\n12. Phone Number\n13. Vacation Entitlement\n14. Contract Data"
+    },{
+        "input": "Time Tracking",
+        "output": "1. Working Hours\n2. Communication Data\n3. Sick Days (special category according to Art. 9 GDPR)\n4. Vacation Days\n5. Last Name\n6. First Name"
+    },{
+        "input": "Audit / Internal Review",
+        "output": "1. Any Data Type"
+    },{
+        "input": "Recording of Conversations (telephone / in person)",
+        "output": "1. Email Address\n2. Communication Data\n3. Last Name\n4. First Name\n5. Phone Number"
+    },{
+        "input": "Expense Reimbursement",
+        "output": "1. Bank Account Data\n2. Expense Data\n3. Email Address\n4. Last Name\n5. First Name"
+    },{
+        "input": "Consulting Activities",
+        "output": "1. Address Data\n2. Email Address\n3. Communication Data\n4. Last Name\n5. First Name\n6. Phone Number"
+    },{
+        "input": "Visitor Management",
+        "output": "1. Last Name\n2. First Name\n3. Company\n4. Visitation Date\n5. Internal Contact Person"
+    },{
+        "input": "Operation of a Webshop",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Order Data\n5. Email Address\n6. Birth Name\n7. Gender\n8. ID Number\n9. IP Address\n10. Communication Data\n11. Customer Number\n13. Last Name\n14. First Name\n15. Username\n16. Password Files\n17. Profile Data\n18. Phone Number\n19. Payment Data"
+    },{
+        "input": "Company Pension Scheme",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Professional Position\n5. Email Address\n6. Company Affiliation\n7. Date of Birth\n8. Gender\n9. Health Data (special category according to Art. 9 GDPR)\n10. Health Insurance Number\n11. Last Name\n12. First Name\n13. Employee Number\n14. Phone Number\n15. Insurance Status\n16. Insurance Number (general)\n17. Contract Data"
+    },{
+        "input": "Data Subject Rights",
+        "output": "1. Address Data\n2. Data of the Data Subject\n3. Email Address\n4. Last Name\n5. First Name"
+    },{
+        "input": "Applicant Management",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Professional Position\n5. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n6. Email Address\n7. Expertise\n8. Skills\n9. Gender\n10. Birth Name\n11. Birthplace\n12. Communication Data\n13. Last Name\n14. First Name\n15. Religious Affiliation (special category according to Art. 9 GDPR)\n16. Nationality\n17. Phone Number"
+    },{
+        "input": "Evaluations / References",
+        "output": "1. Address Data\n2. Evaluation / Reference\n3. Email Address\n4. Communication Data\n5. Last Name\n6. First Name"
+    },{
+        "input": "Management",
+        "output": "1. Bank Account Data\n2. Receipts / Vouchers\n3. Professional Position\n4. Company Affiliation\n5. Last Name\n6. First Name"
+    },{
+        "input": "Image Recording",
+        "output": "1. Image Material\n2. Biometric Data (special category according to Art. 9 GDPR)"
+    },{
+        "input": "Credit Check",
+        "output": "1. Address Data\n2. Age\n3. Credit Data\n4. Email Address\n5. Date of Birth\n6. Last Name\n7. First Name\n8. Phone Number\n"
+    },{
+        "input": "Office Equipment",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Outgoing Invoice\n5. ID Data / Passport Data\n6. Bank Account Data\n7. Complaint Data\n8. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n9. Image Material\n10. Booking Records\n11. Order Data\n12. Data of the Affected Person\n13. Incoming Invoice\n14. Communication Data\n15. Customer Number\n16. Delivery Conditions\n17. Dunning Data\n18. Last Name\n19. First Name\n20. Usage Behavior\n21. Employee Records\n22. Project Data\n23. Invoice Information\n24. Travel Data / Travel Costs\n25. Schedule Data\n26. Contract Data\n27. Contract Billing Data\n28. Payment Data"
+    },{
+        "input": "Controlling",
+        "output": "1. Billing Data\n2. Outgoing Invoice\n3. Receipts / Vouchers\n4. Booking Records\n5. Incoming Invoice\n6. Company Affiliation\n7. Dunning Data\n8. Membership Fees\n9. Monthly Salaries\n10. Monthly Wages\n11. Revenue\n12. Contract Billing Data\n13. Payment Data"
+    },{
+        "input": "Data Backup",
+        "output": "1. Any Data Type"
+    },{
+        "input": "Third Party Services / Content",
+        "output": "1. Browser Histories\n2. Email Address\n3. IP Address\n4. Communication Data\n5. Last Name\n6. First Name\n7. Username"
+    },{
+        "input": "Document Review",
+        "output": "1. Contract Data\n2. Parties Involved\n3. Contract Dates (start date, end date, renewal dates)\n4. Terms and Conditions\n5.Payment Terms\n6.Confidentiality Clauses\n7. Termination Clauses\n8. Amendment History\n9. Signatures\n10. Supporting Documents (annexes, appendices, exhibits)\n12. Metadata (document version, last modified date, author)"
+    },{
+        "input": "Financial Accounting",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Booking Records\n6. Incoming Invoice\n7. Email Address\n8. Dunning Data\n9. Last Name\n10. First Name\n11. Phone Number"
+    },{
+        "input": "Payroll Accounting",
+        "output": "1. Address Data\n2. Age\n3. Working Hours\n4. Bank Account Data\n5. Professional Position\n6. Email Address\n7. Marital Status\n8. Birthplace\n9. Gender\n10. Monthly Wages\n11. Monthly Salaries\n12. Sick Days (special category according to Art. 9 GDPR)\n13. Last Name\n14. First Name\n15. Employee Number\n16. Religious Affiliation (special category according to Art. 9 GDPR)\n17. Pension Insurance Number\n18. Social Security Number\n19. Nationality\n20. Tax Identification Number\n21. Phone Number\n22. Vacation Days"
+    },{
+        "input": "Email Communication",
+        "output": "1. Email Address\n2. Communication Data\n3. IP Address"
+    },{
+        "input": "Use of Personnel Software",
+        "output": "1. Billing Data\n2. Address Data\n3. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n4. Age\n5. Information on Wage Garnishments\n6. Working Hours\n7. Bank Account Data\n8. Professional Position\n9. Email Address\n10. Expertise\n11. Skills\n12. Marital Status\n13. Birth Name\n14. Birthplace\n15. Gender\n16. Health Data (special category according to Art. 9 GDPR)\n17. Union Membership (special category according to Art. 9 GDPR)\n18. Health Insurance Number\n19. Sick Days (special category according to Art. 9 GDPR)\n20. Monthly Salaries\n21. Monthly Wages\n22. Last Name\n23. First Name\n24. Employee Number\n25. Employee Records\n26. Religious Affiliation (special category according to Art. 9 GDPR)\n27. Pension Insurance Number\n28. Social Security Number\n29. Nationality\n30. Tax Identification Number\n31. Phone Number\n32. Insurance Number (general)"
+    },{
+        "input": "Electronic Payment Transactions",
+        "output": "1. Billing Data\n2. Outgoing Invoice\n3. Bank Account Data\n4. Incoming Invoice\n5. Last Name\n6. First Name\n7. Invoice Information"
+    },{
+        "input": "Recording of Patient Findings",
+        "output": "1. Billing Data\n2. Address Data\n3. Treatment Data\n4. Health Data (special category according to Art. 9 GDPR)\n5. Last Name\n6. First Name\n7. Social Security Number"
+    },{
+        "input": "External Services (Crafts)",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Bank Account Data\n5. Email Address\n6. Incoming Invoice\n7. Communication Data\n8. Last Name\n9. First Name\n10. Invoice Information\n11. Tax Identification Number\n12. Phone Number\n13. Payment Conditions"
+    },{
+        "input": "External Services (Cleaning)",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Bank Account Data\n5. Email Address\n6. Incoming Invoice\n7. Communication Data\n8. Last Name\n9. First Name\n10. Invoice Information\n11. Tax Identification Number\n12. Phone Number\n13. Payment Conditions"
+    },{
+        "input": "Facility Management",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Bank Account Data\n5. Email Address\n6. Incoming Invoice\n7. Communication Data\n8. Last Name\n9. First Name\n10. Invoice Information\n11. Tax Identification Number\n12. Phone Number\n13. Payment Conditions"
+    },{
+        "input": "Remote Maintenance",
+        "output": "1. Email Address\n2. ID Number\n3. IP Address\n4. Last Name\n5. First Name\n6. Connection Data"
+    },{
+        "input": "Fleet (Fines)",
+        "output": "1.Address Data\n2. Biometric Data (special category according to Art. 9 GDPR)\n3. Driving Data\n4. Last Name\n5. First Name"
+    },{
+        "input": "Fleet (Management)",
+        "output": "1. Address Data\n2. Age\n3. ID Data / Passport Data\n4. Driver's License\n5. Last Name\n6. First Name\n7. Travel Data / Travel Costs"
+    },{
+        "input": "Guest WiFi / Network Access",
+        "output": "1. Email Address\n2. Last Name\n3. First Name\n4. Username\n5. Connection Data"
+    },{
+        "input": "Birthday and Anniversary Directory",
+        "output": "1. Address Data\n2. Age\n3. Email Address\n4. Date of Birth\n5. Last Name\n6. First Name\n7. Phone Number"
+    },{
+        "input": "Device Management",
+        "output": "1. Email Address\n2. Last Name\n3. First Name\n4. Device Data"
+    },{
+        "input": "Business Credit Card",
+        "output": "1. Billing Data\n2. Bank Account Data\n3. Last Name\n4. First Name\n5. Invoice Information"
+    },{
+        "input": "Health Management",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Professional Position\n5. Email Address\n6. Company Affiliation\n7. Gender\n8. Health Data (special category according to Art. 9 GDPR)\n9. Health Insurance Number\n10. Last Name\n11. First Name\n12. Employee Number\n13. Phone Number"
+    },{
+        "input": "Contests",
+        "output": "1. Email Address\n2. Communication Data\n3. IP Address\n4. Last Name\n5. First Name"
+    },{
+        "input": "Janitorial Service",
+        "output": "1. Billing Data\n2. Address Data\n3. Bank Account Data\n4. Professional Position\n5. Email Address\n6. Expertise\n7. Skills\n8. Last Name\n9. First Name\n10. Phone Number"
+    },{
+        "input": "Insolvency Administration",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Order Data\n6. Data on Dunning Level and Outstanding Claims as well as Data on Previous Dunning and Collection Procedures\n7. Email Address\n8. Payments\n9. Insolvency Notices\n10. Communication Data\n11. Customer Number\n12. Last Name\n13. First Name\n14. Credit Report\n15. Phone Number\n16. Contract Billing Data\n17. Contract Data\n18. Payment Data"
+    },{
+        "input": "Calendar and Appointment Management",
+        "output": "1. Email Address\n2. IP Address\n3. Communication Data\n4. Last Name\n5. First Name\n6. Phone Number\n7. Schedule Data"
+    },{
+        "input": "Cash Management",
+        "output": "1. Payments\n2. Last Name\n3. First Name"
+    },{
+        "input": "Comment Function",
+        "output": "1. Email Address\n2. IP Address\n3. Communication Data\n4. Last Name\n5. First Name"
+    },{
+        "input": "Communication (Chat/Messenger)",
+        "output": "1. Communication Data\n2. IP Address\n3. Last Name\n4. First Name\n5. Username\n6. Usage Behavior"
+    },{
+        "input": "Contact Form / Chat Function",
+        "output": "1. Email Address\n2. IP Address\n3. Communication Data\n4. Last Name\n5. First Name\n6. Phone Number"
+    },{
+        "input": "Contact Management",
+        "output": "1. Address Data\n2. Email Address\n3. IP Address\n4. Communication Data\n5. Last Name\n6. First Name\n7. Username\n8. Phone Number"
+    },{
+        "input": "Customer Analysis",
+        "output": "1. Browser Histories\n2. Email Address\n3. IP Address\n4. Last Name\n5. First Name\n6. Usage Data\n7. Usage Behavior\n8. Language and Version of Browser Software\n9. Location Data"
+    },{
+        "input": "Customer Support",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Bank Account Data"
+    },{
+        "input": "Customer Acquisition",
+        "output": "1. Address Data\n2. Email Address\n3. Last Name\n4. First Name\n5. Phone Number"
+    },{
+        "input": "Customer Management",
+        "output": "1. Billing Data\n2. Address Data\n3. Complaint Data\n4. Email Address\n5. ID Number\n6. IP Address\n7. Customer Number\n8. Last Name\n9. First Name\n10. Dunning Data\n11. Phone Number\n12. First Name\n13. Payment Conditions"
+    },{
+        "input": "Supplier Management",
+        "output": "1. Billing Data\n2. Address Data\n3. Order Data\n4. Email Address\n5. Last Name\n6. First Name\n7. Payment Conditions"
+    },{
+        "input": "Dunning / Collection",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Order Data\n6. Data on Dunning Level and Outstanding Claims as well as Data on Previous Dunning and Collection Procedures\n7. Email Address\n8. Payments\n9. Communication Data\n10. Customer Number\n11. Last Name\n12. First Name\n13. Credit Report\n14. Phone Number\n15. Contract Billing Data\n16. Contract Data\n17. First Name\n18. Payment Data"
+    },{
+        "input": "Market Analysis (SWOT)",
+        "output": "1. Competitor Websites"
+    },{
+        "input": "Medical Image Data Processing",
+        "output": "1. Billing Data\n2. Treatment Data\n3. Date of Treatment\n4. Gender\n5. Health Data (special category according to Art. 9 GDPR)\n6. Last Name\n7. First Name\n8. Social Security Number"
+    },{
+        "input": "Employee Discussion",
+        "output": "1. Professional Position\n2. Evaluations\n3. Expertise\n4. Skills\n5. Company Affiliation\n6. Health Data (special category according to Art. 9 GDPR)\n7. Sick Days (special category according to Art. 9 GDPR)\n8. Learning Outcomes\n9. Learning Progress\n10. Username\n11. Employee Number"
+    },{
+        "input": "Works Council Participation",
+        "output": "1. Professional Position\n2. Resolution, Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n3. Evaluation / Reference\n4. Expertise\n5. Skills\n6. Company Affiliation\n7. Communication Data\n8. Sick Days (special category according to Art. 9 GDPR)\n9. Monthly Salaries\n10. Monthly Wages\n11. Last Name\n12. First Name\n13. Employee Number\n14. Vacation Entitlement"
+    },{
+        "input": "Membership Management",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Joining Date\n5. Email Address\n6. Role in the Association\n7. Membership Fees\n8. Last Name\n9. First Name\n10. Phone Number"
+    },{
+        "input": "Mobile Device Management",
+        "output": "1. Address Data\n2. Email Address\n3. Last Name\n4. First Name\n5. Usage Behavior\n6. Phone Number"
+    },{
+        "input": "Newsletter (Email Marketing)",
+        "output": "1. Double Opt-in Data\n2. Email Address\n3. IP Address\n4. Last Name\n5. First Name\n6. Usage Data"
+    },{
+        "input": "User Management and Access Rights",
+        "output": "1. Professional Position\n2. Email Address\n3. IP Address\n4. Usage Data\n5. Usage Behavior"
+    },{
+        "input": "Use of ERP System",
+        "output": "1. Address Data\n2. Offer Data\n3. Outgoing Invoice\n4. Complaint Data\n5. Order Data\n6. Email Address\n7. Communication Data\n8. Customer Number\n9. Last Name\n10. First Name\n11. Phone Number\n12. Contract Data\n13. Payment Data\n14. Payment Conditions"
+    },{
+        "input": "Use of Office Software",
+        "output": "1. Email Address\n2. IP Address\n3. Last Name\n4. First Name\n5. Usage Data\n6. Password Files"
+    },{
+        "input": "Use of Cloud Services",
+        "output": "1. Billing Data\n2. Address Data\n3. Insurance Number (general)\n4. Offer Data\n5. ID Data / Passport Data\n6. Complaint Data\n7. Order Data\n8. Booking Records\n9. Email Address\n10. Incoming Invoice\n11. Health Data (special category according to Art. 9 GDPR)\n12. Land Register Entry\n13. Communication Data\n14. Customer Number\n15. Meta Data\n16. Phone Number"
+    },{
+        "input": "Use of Office 365",
+        "output": "1. Email Address\n2. Last Name\n3. First Name\n4. Username"
+    },{
+        "input": "Password Management",
+        "output": "1. Email Address\n2. Password Files"
+    },{
+        "input": "Personnel Data Processing / Payroll",
+        "output": "1. Billing Data\n2. Address Data\n3. Age\n4. Information on Wage Garnishments\n5. Working Hours\n6. Bank Account Data\n7. Professional Position\n8. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n9. Email Address\n10. Expertise\n11. Skills\n12. Marital Status\n13. Birth Name\n14. Birthplace\n15. Gender\n16. Health Data (special category according to Art. 9 GDPR)\n17. Union Membership (special category according to Art. 9 GDPR)\n18. Health Insurance Number\n19. Sick Days (special category according to Art. 9 GDPR)\n20. Monthly Salaries\n21. Monthly Wages\n22. Last Name\n23. First Name\n24. Employee Number\n25. Employee Records\n26. Religious Affiliation (special category according to Art. 9 GDPR)\n27. Pension Insurance Number\n28. Social Security Number\n29. Nationality\n30. Tax Identification Number\n31. Phone Number\n32. Insurance Number (general)"
+    },{
+        "input": "preeco Privacy Management Software",
+        "output": "1. Billing Data\n2. Address Data\n3. Bank Account Data\n4. Order Data\n5. Email Address\n6. Communication Data\n7. Meta Data\n8. Usage Data\n9. Password Files\n10. Profile Data\n11. Phone Number\n12. Contract Data\n13. Contract Billing Data\n14. Payment Data"
+    },{
+        "input": "Project Management",
+        "output": "1. Email Address\n2. Last Name\n3. First Name\n4. Project Data\n5. Phone Number\n6. Schedule Data"
+    },{
+        "input": "Quality Management",
+        "output": "1. Address Data\n2. Professional Position\n3. Evaluations\n4. Email Address\n5. Phone Number"
+    },{
+        "input": "Travel Expense Reimbursement",
+        "output": "1. Address Data\n2. Bank Account Data\n3. Last Name\n4. First Name\n5. Travel Data / Travel Costs"
+    },{
+        "input": "Shift Planning",
+        "output": "1. Working Hours\n2. Sick Days (special category according to Art. 9 GDPR)\n3. Last Name\n4. First Name\n5. Employee Number\n6. Vacation Periods"
+    },{
+        "input": "Key Issuance and Management",
+        "output": "1. Address Data\n2. Email Address\n3. Company Affiliation\n4. Last Name\n5. First Name\n6. Phone Number"
+    },{
+        "input": "Training",
+        "output": "1. Professional Position\n2. Expertise\n3. Skills\n4. Last Name\n5. First Name"
+    },{
+        "input": "Special Payments (Bonus)",
+        "output": "1. Address Data\n2. Bank Account Data\n3. Professional Position\n4. Last Name\n5. First Name"
+    },{
+        "input": "Donation Management",
+        "output": "1. Address Data\n2. Email Address\n3. Last Name\n4. First Name\n5. Phone Number\n6. Payment Data"
+    },{
+        "input": "Subscriptions",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Complaint Data\n5. Order Data\n6. Subscription Data\n7. Email Address\n8. Payments\n9. ID Number\n10. Communication Data\n11. Customer Number\n12. Last Name\n13. First Name\n14. Username\n15. Invoice Information\n16. Phone Number\n17. Revenue\n18. Contract Billing Data\n19. Contract Data\n20. Payment Data\n21. Payment Conditions"
+    },{
+        "input": "Fuel Cards",
+        "output": "1. Billing Data\n2. Bank Account Data\n3. Receipts / Vouchers\n4. Driving Data\n5. Driver's License\n6. Vehicle License Plate\n7. Last Name\n8. First Name"
+    },{
+        "input": "Telephone System",
+        "output": "1. Communication Data\n2. IP Address\n3. Phone Number"
+    },{
+        "input": "Accident Management",
+        "output": "1. Address Data\n2. Professional Position\n3. Company Affiliation\n4. Last Name\n5. First Name\n6. Data on Accident and Injuries"
+    },{
+        "input": "Vacation Planning",
+        "output": "1. Professional Position\n2. Email Address\n3. Company Affiliation\n4. Last Name\n5. First Name\n6. Employee Number\n7. Phone Number\n8. Vacation Entitlement\n9. Vacation Days\n10. Vacation Periods"
+    },{
+        "input": "Insurances",
+        "output": "1. Address Data\n2. Bank Account Data\n3. Email Address\n4. Customer Number\n5. Last Name\n6. First Name\n7. Damage Data\n8. Phone Number\n9. Insurance Number (general)\n10. Insurance Status\n11. Contract Data"
+    },{
+        "input": "Consent Management",
+        "output": "1. Email Address\n2. Last Name\n3. First Name\n4. IP Address\n5. Opt-In Date"
+    },{
+        "input": "Freelancer Management",
+        "output": "1. Address Data\n2. Offer Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Professional Position\n6. Evaluation / Reference\n7. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n8. Email Address\n9. Expertise\n10. Skills\n11. Communication Data\n12. Last Name\n13. First Name\n14. Project Data\n15. Social Security Number\n16. Tax Identification Number\n17. Phone Number"
+    },{
+        "input": "Video Calls",
+        "output": "1. Communication Data\n2. IP Address\n3. Phone Number"
+    },{
+        "input": "Video Surveillance",
+        "output": "1. Image Material\n2. Biometric Data (special category according to Art. 9 GDPR)\n3. Communication Data\n4. Behavioral Data\n5. Video Material"
+    },{
+        "input": "DPIA Jitsi (Hosted by Processor)",
+        "output": "1. IP Address\n2. Client Information\n3. Cookies (Session/Settings Cookies)\n4. Email Address (optional)\n5. First Name (optional)\n6. Last Name (optional)\n7. File Recording (Video/Audio/Presentation) (optional)"
+    },{
+        "input": "DPIA Jitsi (Self-hosted)",
+        "output": "1. IP Address\n2. Client Information\n3. Cookies (Session/Settings Cookies)\n4. Email Address (optional)\n5. First Name (optional)\n6. Last Name (optional)\n7. File Recording (Video/Audio/Presentation) (optional)"
+    },{
+        "input": "DPIA MS Teams",
+        "output": "1. Email Address\n2. Phone Number (optional)\n3. Profile Picture (optional)\n4. File Recording (Video/Audio/Presentation) (optional)"
+    },{
+        "input": "DPIA Zoom",
+        "output": "1. Email Address\n2. First Name\n3. Last Name\n4. Phone Number\n5. Profile Picture (optional)\n6. File Recording (Video/Audio/Presentation) (optional)"
+    },{
+        "input": "Website / Visiting Our Website",
+        "output": "1. Operating System\n2. Date and Time of Inquiry\n3. Content of the Inquiry\n4. IP Address\n5. Amount of Data Transferred per Visit\n6. Meta Data\n7. Usage Data\n8. Language and Version of Browser Software\n9. Website from Which the Inquiry Originates\n10. Access Status / HTTP Status Code"
+    },{
+        "input": "Web Forum",
+        "output": "1. Email Address\n2. IP Address\n3. Communication Data\n4. Last Name\n5. First Name\n6. Username"
+    },{
+        "input": "Web Tracking",
+        "output": "1. IP Address\n2. Usage Data\n3. Usage Behavior\n4. Language and Version of Browser Software"
+    },{
+        "input": "Further Education (E-Learning)",
+        "output": "1. Professional Position\n2. Email Address\n3. Expertise\n4. Skills\n5. Learning Outcomes\n6. Learning Progress\n7. Last Name\n8. First Name\n9. Username\n10. Usage Data\n11. Usage Behavior"
+    },{
+        "input": "Access Control",
+        "output": "1. Number of Visits\n2. Address Data\n3. Image Material\n4. Company Affiliation\n5. Last Name\n6. First Name"
+}]

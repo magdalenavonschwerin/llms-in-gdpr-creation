@@ -1,0 +1,152 @@
+[
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nI need a list of data categories relevant to the processing activity Absence Time Tracking within the framework of the EU GDPR.\nPlease provide exactly ten suitable data categories.\n\n### Answer:",
+        "group": 1,           
+        "input": "Absence Time Tracking",
+        "output": "1. Working Hours\n2. Professional Position\n3. Health Insurance Number\n4. Sick Days (special category according to Art. 9 GDPR)\n5. Last Name\n6. Employee Number\n7. Vacation Entitlement\n8. Vacation Days\n9. Vacation Periods\n10. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nI need a list of data categories relevant to the processing activity Agencies within the framework of the EU GDPR.\nPlease provide exactly ten suitable data categories.\n\n### Answer:",
+        "group": 1,
+        "input": "Agencies",
+        "output": "1. Address Data\n2. Offer Data\n3. Bank Account Data\n4. Order Data\n5. Email Address\n6. Incoming Invoice\n7. Communication Data\n8. Last Name\n9. Phone Number\n10. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nI need a list of data categories relevant to the processing activity Order Acceptance via a Web Portal within the framework of the EU GDPR.\nPlease provide exactly ten suitable data categories.\n\n### Answer:",
+        "group": 1,
+        "input": "Order Acceptance via a Web Portal",
+        "output": "1. Address Data\n2. ID Data / Passport Data\n3. Bank Account Data\n4. Order Data\n5. Date and Time of Inquiry\n6. Email Address\n7. Gender\n8. IP Address\n9. Customer Number\n10. Delivery Conditions\n11. Last Name\n12. Phone Number\n13. First Name\n14. Payment Data"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nI need a list of data categories relevant to the processing activity Employment Contracts within the framework of the EU GDPR.\nPlease provide exactly ten suitable data categories.\n\n### Answer:",
+        "group": 1,
+        "input": "Employment Contracts",
+        "output": "1. Address Data\n2. Bank Account Data\n3. Joining Date\n4. Professional Position\n5. Date of Birth\n6. Email Address\n7. Monthly Salaries\n8. Monthly Wages\n9. Last Name\n10. Employee Number\n11. Phone Number\n12. Vacation Entitlement\n13. Contract Data\n14. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nI need a list of data categories relevant to the processing activity Company Pension Scheme within the framework of the EU GDPR.\nPlease provide exactly ten suitable data categories.\n\n### Answer:",
+        "group": 1,
+        "input": "Company Pension Scheme",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Professional Position\n5. Email Address\n6. Company Affiliation\n7. Date of Birth\n8. Gender\n9. Health Data (special category according to Art. 9 GDPR)\n10. Health Insurance Number\n11. Last Name\n12. Employee Number\n13. Phone Number\n14. Insurance Status\n15. Insurance Number (general)\n16. Contract Data\n17. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the processing activity Applicant Management, identify exactly ten data categories that are pertinent under EU GDPR regulations.\n\n### Answer:",
+        "group": 2,
+        "input": "Applicant Management",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Professional Position\n5. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n6. Email Address\n7. Expertise\n8. Skills\n9. Gender\n10. Birth Name\n11. Birthplace\n12. Communication Data\n13. Last Name\n14. Religious Affiliation (special category according to Art. 9 GDPR)\n15. Nationality\n16. Phone Number\n17. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the processing activity Office Equipment, identify exactly ten data categories that are pertinent under EU GDPR regulations.\n\n### Answer:",
+        "group": 2,
+        "input": "Office Equipment",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Outgoing Invoice\n5. ID Data / Passport Data\n6. Bank Account Data\n7. Complaint Data\n8. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n9. Image Material\n10. Booking Records\n11. Order Data\n12. Data of the Affected Person\n13. Incoming Invoice\n14. Communication Data\n15. Customer Number\n16. Delivery Conditions\n17. Dunning Data\n18. Last Name\n19. Usage Behavior\n20. Employee Records\n21. Project Data\n22. Invoice Information\n23. Travel Data / Travel Costs\n24. Schedule Data\n25. Contract Data\n26. Contract Billing Data\n27. First Name\n28. Payment Data"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the processing activity Controlling, identify exactly ten data categories that are pertinent under EU GDPR regulations.\n\n### Answer:",
+        "group": 2,
+        "input": "Controlling",
+        "output": "1. Billing Data\n2. Outgoing Invoice\n3. Receipts / Vouchers\n4. Booking Records\n5. Incoming Invoice\n6. Company Affiliation\n7. Dunning Data\n8. Membership Fees\n9. Monthly Salaries\n10. Monthly Wages\n11. Revenue\n12. Contract Billing Data\n13. Payment Data"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the processing activity Use of Personnel Software, identify exactly ten data categories that are pertinent under EU GDPR regulations.\n\n### Answer:",
+        "group": 2,
+        "input": "Use of Personnel Software",
+        "output": "1. Billing Data\n2. Address Data\n3. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n4. Age\n5. Information on Wage Garnishments\n6. Working Hours\n7. Bank Account Data\n8. Professional Position\n9. Email Address\n10. Expertise\n11. Skills\n12. Marital Status\n13. Birth Name\n14. Birthplace\n15. Gender\n16. Health Data (special category according to Art. 9 GDPR)\n17. Union Membership (special category according to Art. 9 GDPR)\n18. Health Insurance Number\n19. Sick Days (special category according to Art. 9 GDPR)\n20. Monthly Salaries\n21. Monthly Wages\n22. Last Name\n23. Employee Number\n24. Employee Records\n25. Religious Affiliation (special category according to Art. 9 GDPR)\n26. Pension Insurance Number\n27. Social Security Number\n28. Nationality\n29. Tax Identification Number\n30. Phone Number\n31. Insurance Number (general)\n32. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the processing activity External Services (Crafts), identify exactly ten data categories that are pertinent under EU GDPR regulations.\n\n### Answer:",
+        "group": 2,
+        "input": "External Services (Crafts)",
+        "output": "1. Billing Data\n2. Address Data\n3. Offer Data\n4. Bank Account Data\n5. Email Address\n6. Incoming Invoice\n7. Communication Data\n8. Last Name\n9. Invoice Information\n10. Tax Identification Number\n11. Phone Number\n12. First Name\n13. Payment Conditions"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nConsidering the processing activity Health Management in the context of EU GDPR, list exactly ten appropriate data categories.\n\n### Answer:",
+        "group": 3,
+        "input": "Health Management",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Professional Position\n5. Email Address\n6. Company Affiliation\n7. Gender\n8. Health Data (special category according to Art. 9 GDPR)\n9. Health Insurance Number\n10. Last Name\n11. Employee Number\n12. Phone Number\n13. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nConsidering the processing activity Janitorial Service in the context of EU GDPR, list exactly ten appropriate data categories.\n\n### Answer:",
+        "group": 3,
+        "input": "Janitorial Service",
+        "output": "1. Billing Data\n2. Address Data\n3. Bank Account Data\n4. Professional Position\n5. Email Address\n6. Expertise\n7. Skills\n8. Last Name\n9. Phone Number\n10. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nConsidering the processing activity Insolvency Administration in the context of EU GDPR, list exactly ten appropriate data categories.\n\n### Answer:",
+        "group": 3,
+        "input": "Insolvency Administration",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Order Data\n6. Data on Dunning Level and Outstanding Claims as well as Data on Previous Dunning and Collection Procedures\n7. Email Address\n8. Payments\n9. Insolvency Notices\n10. Communication Data\n11. Customer Number\n12. Last Name\n13. Credit Report\n14. Phone Number\n15. Contract Billing Data\n16. Contract Data\n17. First Name\n18. Payment Data"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nConsidering the processing activity Customer Management in the context of EU GDPR, list exactly ten appropriate data categories.\n\n### Answer:",
+        "group": 3,
+        "input": "Customer Management",
+        "output": "1. Billing Data\n2. Address Data\n3. Complaint Data\n4. Email Address\n5. ID Number\n6. IP Address\n7. Customer Number\n8. Last Name\n9. Dunning Data\n10. Phone Number\n11. First Name\n12. Payment Conditions"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nConsidering the processing activity Dunning / Collection in the context of EU GDPR, list exactly ten appropriate data categories.\n\n### Answer:",
+        "group": 3,
+        "input": "Dunning / Collection",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Order Data\n6. Data on Dunning Level and Outstanding Claims as well as Data on Previous Dunning and Collection Procedures\n7. Email Address\n8. Payments\n9. Communication Data\n10. Customer Number\n11. Last Name\n12. Credit Report\n13. Phone Number\n14. Contract Billing Data\n15. Contract Data\n16. First Name\n17. Payment Data"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the given processing activity Employee Discussion, what are exactly ten relevant data categories according to EU GDPR?\n\n### Answer:",
+        "group": 4,
+        "input": "Employee Discussion",
+        "output": "1. Professional Position\n2. Evaluations\n3. Expertise\n4. Skills\n5. Company Affiliation\n6. Health Data (special category according to Art. 9 GDPR)\n7. Sick Days (special category according to Art. 9 GDPR)\n8. Learning Outcomes\n9. Learning Progress\n10. Username\n11. Employee Number"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the given processing activity Works Council Participation, what are exactly ten relevant data categories according to EU GDPR?\n\n### Answer:",
+        "group": 4,
+        "input": "Works Council Participation",
+        "output": "1. Professional Position\n2. Resolution, Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n3. Evaluation / Reference\n4. Expertise\n5. Skills\n6. Company Affiliation\n7. Communication Data\n8. Sick Days (special category according to Art. 9 GDPR)\n9. Monthly Salaries\n10. Monthly Wages\n11. Last Name\n12. Employee Number\n13. Vacation Entitlement\n14. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the given processing activity Membership Management, what are exactly ten relevant data categories according to EU GDPR?\n\n### Answer:",
+        "group": 4,
+        "input": "Membership Management",
+        "output": "1. Address Data\n2. Age\n3. Bank Account Data\n4. Joining Date\n5. Email Address\n6. Role in the Association\n7. Membership Fees\n8. Last Name\n9. Phone Number\n10. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the given processing activity Use of Cloud Services, what are exactly ten relevant data categories according to EU GDPR?\n\n### Answer:",
+        "group": 4,
+        "input": "Use of Cloud Services",
+        "output": "1. Billing Data\n2. Address Data\n3. Insurance Number (general)\n4. Offer Data\n5. ID Data / Passport Data\n6. Complaint Data\n7. Order Data\n8. Booking Records\n9. Email Address\n10. Incoming Invoice\n11. Health Data (special category according to Art. 9 GDPR)\n12. Land Register Entry\n13. Communication Data\n14. Customer Number\n15. Meta Data\n16. Phone Number"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nFor the given processing activity Personnel Data Processing / Payroll, what are exactly ten relevant data categories according to EU GDPR?\n\n### Answer:",
+        "group": 4,
+        "input": "Personnel Data Processing / Payroll",
+        "output": "1. Billing Data\n2. Address Data\n3. Age\n4. Information on Wage Garnishments\n5. Working Hours\n6. Bank Account Data\n7. Professional Position\n8. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n9. Email Address\n10. Expertise\n11. Skills\n12. Marital Status\n13. Birth Name\n14. Birthplace\n15. Gender\n16. Health Data (special category according to Art. 9 GDPR)\n17. Union Membership (special category according to Art. 9 GDPR)\n18. Health Insurance Number\n19. Sick Days (special category according to Art. 9 GDPR)\n20. Monthly Salaries\n21. Monthly Wages\n22. Last Name\n23. Employee Number\n24. Employee Records\n25. Religious Affiliation (special category according to Art. 9 GDPR)\n26. Pension Insurance Number\n27. Social Security Number\n28. Nationality\n29. Tax Identification Number\n30. Phone Number\n31. Insurance Number (general)\n32. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nPlease provide a list of exactly ten data categories that fit the processing activity Subscriptions as per EU GDPR guidelines.\n\n### Answer:",
+        "group": 5,
+        "input": "Subscriptions",
+        "output": "1. Billing Data\n2. Address Data\n3. Outgoing Invoice\n4. Complaint Data\n5. Order Data\n6. Subscription Data\n7. Email Address\n8. Payments\n9. ID Number\n10. Communication Data\n11. Customer Number\n12. Last Name\n13. Username\n14. Invoice Information\n15. Phone Number\n16. Revenue\n17. Contract Billing Data\n18. Contract Data\n19. First Name\n20. Payment Data\n21. Payment Conditions"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nPlease provide a list of exactly ten data categories that fit the processing activity Vacation Planning as per EU GDPR guidelines.\n\n### Answer:",
+        "group": 5,
+        "input": "Vacation Planning",
+        "output": "1. Professional Position\n2. Email Address\n3. Company Affiliation\n4. Last Name\n5. Employee Number\n6. Phone Number\n7. Vacation Entitlement\n8. Vacation Days\n9. Vacation Periods\n10. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nPlease provide a list of exactly ten data categories that fit the processing activity Insurances as per EU GDPR guidelines.\n\n### Answer:",
+        "group": 5,
+        "input": "Insurances",
+        "output": "1. Address Data\n2. Bank Account Data\n3. Email Address\n4. Customer Number\n5. Last Name\n6. Damage Data\n7. Phone Number\n8. Insurance Number (general)\n9. First Name\n10. Insurance Status\n11. Contract Data"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nPlease provide a list of exactly ten data categories that fit the processing activity Freelancer Management as per EU GDPR guidelines.\n\n### Answer:",
+        "group": 5,
+        "input": "Freelancer Management",
+        "output": "1. Address Data\n2. Offer Data\n3. Outgoing Invoice\n4. Bank Account Data\n5. Professional Position\n6. Evaluation / Reference\n7. Applicant Data (Degrees, Evaluations, CV, Photo, Certificates)\n8. Email Address\n9. Expertise\n10. Skills\n11. Communication Data\n12. Last Name\n13. Project Data\n14. Social Security Number\n15. Tax Identification Number\n16. Phone Number\n17. First Name"
+    },
+    {
+        "prompt": "### Instruction: Act as a technical assistant.\nPlease provide a list of exactly ten data categories that fit the processing activity Further Education (E-Learning) as per EU GDPR guidelines.\n\n### Answer:",
+        "group": 5,
+        "input": "Further Education (E-Learning)",
+        "output": "1. Professional Position\n2. Email Address\n3. Expertise\n4. Skills\n5. Learning Outcomes\n6. Learning Progress\n7. Last Name\n8. Username\n9. Usage Data\n10. Usage Behavior\n11. First Name"
+    }
+]

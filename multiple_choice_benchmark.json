@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations.\nWhich data categories fit in the context of the GDPR for the processing activity titled 3G Rule in the Workplace with the description: 'Checking and documenting your 3G (Recovered, Vaccinated, Tested) status as a prerequisite for access to the workplace'?\na. Name \nb. Date of the check \nc. Vacation days\n d. Professional position \ne. Status of the proof \nf. Bank account details \ng. Expiry date of the vaccination and recovery status \nh. IP address \n\n\n ### Answer:\n ",
+      "answer": "a. Name \n b. Date of the check \n e. Status of the proof \n g. Expiry date of the vaccination and recovery status"
+    },{
+      "id": 2,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations.\nWhich data categories fit in the context of the GDPR for the processing activity titled Absence Time Tracking and the description 'Documentation of absence and leave times for internal and external processing (e.g., illness, vacation, special leave, training)'?\na. Working hours \nb. Professional position \nc. Vacation days \nd. Address data \ne. Status of the proof \nf. Health insurance number \ng. Expiry date of the vaccination and recovery status \nh. Vacation entitlement\n\n\n ### Answer:\n ",
+      "answer": "\na. Working hours \nb. Professional position \nc. Vacation days \nf. Health insurance number \nh. Vacation entitlement"
+    },{
+      "id": 3,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations.\nWhich data categories fit in the context of the GDPR for the processing activity titled Offer Creation and the description 'Obtaining offers to determine the most advantageous conditions and purchasing terms'?\na. Address data \nb. Phone number \nc. Offer data \nd. Gender \ne. Date and time of the inquiry \nf. Delivery conditions \ng. Communication data \nh. Schedule data \n\n\n ### Answer:\n ",
+      "answer": "a. Address data \nc. Offer data"
+    },{
+      "id": 4,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Working Time Recording and the description 'Recording the working hours of individual employees to fulfill the obligation to provide evidence'?\na. Date and time of the inquiry \nb. Working hours \nc. Communication data \nd. Sick days \ne. Vacation days \nf. Name \ng. Phone number \nh. Age\n\n\n ### Answer:\n ",
+      "answer": "b. Working hours \n c. Communication data \nd. Sick days \ne. Vacation days \nf. Name"
+    },{
+      "id": 5,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Audit / Int. Revision and the description 'Internal audits for continuous monitoring of processes to comply with legal standards'?\na. Phone number \nb. Bank account details \nc. Sick days \nd. IP address \ne. Date of inquiry \nf. Vacation entitlement \ng. Date of the check \nh. Any data type\n\n\n ### Answer:\n ",
+      "answer": "h. Any data type"
+    },{
+      "id": 6,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Consulting Activities and the description 'Consulting customers to initiate or conduct business relationships'?\na. Data on expenses \nb. Address data \nc. Email address \nd. Order data \ne. Communication data \nf. Phone number \ng. Name \nh. Customer number\n\n\n ### Answer:\n ",
+      "answer": "b. Address data \nc. Email address \ne. Communication data \nf. Phone number \ng. Name \n"
+    },{
+      "id": 7,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Operation of a Webshop and the description 'Sale of products and/or services via external trading platforms'?\na. Payment data \nb. Meta data \nc. Bank account details \nd. Address data \ne. Customer number \nf. Password files \ng. Gender \nh. IP address\n\n\n ### Answer:\n ",
+      "answer": "a. Payment data \nb. Meta data \nc. Bank account details \nd. Address data \ne. Customer number \nf. Password files \ng. Gender \nh. IP address"
+    },{
+      "id": 8,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Company Pension Scheme and the description 'Management of employees who are in a company pension scheme'?\na. Evaluation/Reference \nb. Nationality \nc. Health data \nd. Age \ne. Company affiliation \nf. IP address \ng. Health insurance number \nh. Contract data\n\n\n ### Answer:\n ",
+      "answer": "c. Health data \nd. Age \ne. Company affiliation \ng. Health insurance number \nh. Contract data"
+    },{
+      "id": 9,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Applicant Management and the description 'Identifying suitable applicants by collecting, evaluating, and storing applicant data during the application process for a potential hiring; hiring a new employee; reimbursing travel expenses'?\na. Name \nb. Communication data \nc. Birthplace \nd. Expertise \ne. Email address \nf. Receipts/Vouchers \ng. Image material \nh. Outgoing invoice\n\n\n ### Answer:\n ",
+      "answer": "a. Name \nb. Communication data \nc. Birthplace \nd. Expertise \ne. Email address"
+    },{
+      "id": 10,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Credit Check and the description 'Obtaining information on the creditworthiness or solvency of (future) customers'?\na. IP address \nb. Name \nc. Email address \nd. Address data \ne. Creditworthiness data \nf. Age \ng. Date of birth \nh. Biometric data\n\n\n ### Answer:\n ",
+      "answer": "\nb. Name \nc. Email address \nd. Address data \ne. Creditworthiness data \nf. Age \ng. Date of birth"
+    },{
+      "id": 11,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Controlling and the description 'Controlling for planning, steering, and controlling all company areas (cost control function)'?\na. Monthly salaries \nb. Billing data \nc. Vacation entitlement \nd. Health insurance number \ne. Company affiliation \nf. Incoming invoice \ng. Revenue \nh. Receipts / Vouchers\n\n\n ### Answer:\n ",
+      "answer": "a. Monthly salaries \nb. Billing data \ne. Company affiliation \nf. Incoming invoice \ng. Revenue \nh. Receipts / Vouchers"
+    },{
+      "id": 12,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Data Backup / Backups and the description 'Backing up data in backups to ensure data availability'?\na. Address data \nb. IP address \nc. Payment data \nd. Communication data \ne. Contract data \nf. Revenue \ng. Vacation days \nh. Sick days\n\n\n ### Answer:\n ",
+      "answer": "a. Any data type"
+    },{
+      "id": 13,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Document Review and the description 'Reviewing a document to determine completeness and legal design'?\na. Name \nb. Revenue \nc. Vacation days \nd. Contract data \ne. IP address \nf. Phone number \ng. Address data \nh. Sick days \n\n\n ### Answer:\n ",
+      "answer": "d. Contract data"
+    },{
+      "id": 14,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Financial Accounting and the description 'Compliance and execution of legal requirements for accounting, financial analysis, and evaluation'?\na. Booking records \nb. Incoming invoice \nc. Dunning data \nd. Phone number \ne. Name \nf. Bank account details \ng. Address data \nh. Email address \n\n\n ### Answer:\n ",
+      "answer": "a. Booking records \nb. Incoming invoice \nc. Dunning data \nd. Phone number \ne. Name \nf. Bank account details \ng. Address data \nh. Email address"
+    },{
+      "id": 15,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled External Services (Cleaning) and the description 'Ordering a service provider to clean a rental property'?\na. Meta data \nb. Bank account details \nc. Tax identification number \nd. IP address \ne. Invoice information \nf. Payment conditions \ng. Travel expenses \nh. Billing data\n\n\n ### Answer:\n ",
+      "answer": "b. Bank account details \nc. Tax identification number \ne. Invoice information \nf. Payment conditions \nh. Billing data"
+    },{
+      "id": 16,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Guest WLAN / Network Access and the description 'Providing internet access via WLAN or network cable for guests, customers, or other visitors to the business premises'?\na. Connection data \nb. Username \nc. Name \nd. Email address\ne. Vacation \nf. Vaccination proof \ng. IP address \nh. Contract data\n\n\n ### Answer:\n ",
+      "answer": "a. Connection data \nb. Username \nc. Name \nd. Email address"
+    },{
+      "id": 17,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Contact Form / Chat Function and the description 'Communication with customers, prospects, or other visitors to a website for the purpose of initiating contracts, customer support, or providing general information'?\na. Browser history \nb. Cookies \nc. Contract data \nd. Billing data \ne. Travel expenses \nf. Email address \ng. IP address \nh. Communication data\n\n\n ### Answer:\n ",
+      "answer": "f. Email address \ng. IP address \nh. Communication data"
+    },{
+      "id": 18,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Calendar and Appointment Management and the description 'Time and space planning, appointment scheduling, planning customer appointments'?\na. Schedule data \nb. Email address \nc. Health insurance number \nd. Communication data \ne. Name \nf. Phone number \ng. Invoice data \nh. Administration data \n\n\n ### Answer:\n ",
+      "answer": "a. Schedule data \nb. Email address \nd. Communication data \ne. Name \nf. Phone number"
+    },{
+      "id": 19,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Cash Management and the description 'Operating a cash register system'?\na. Vacation days \nb. Payments \nc. Company affiliation \nd. Name \ne. Skills \nf. Evaluation \ng. Communication data \nh. IP address\n\n\n ### Answer:\n ",
+      "answer": "b. Payments \nd. Name"
+    },{
+      "id": 20,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Medical Image Data Processing and the description 'Storing, transmitting, and otherwise processing medical image data (e.g., MRI, radiological images, X-rays)'?\na. Vacation days \nb. Health data \nc. Date of treatment \nd. Gender \ne. Professional position \nf. Contract data \ng. Learning outcomes \nh. Travel expenses \n\n\n ### Answer:\n ",
+      "answer": "b. Health data \nc. Date of treatment \nd. Gender"
+    },{
+      "id": 21,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Shift Planning and the description 'Creating and publishing duty rosters to plan assignments or overtime for employees or service providers'?\na. Working hours \nb. Sick days \nc. Phone number \nd. Employee number \ne. Name \nf. Learning outcomes \ng. Vacation periods \nh. Email address \n\n\n ### Answer:\n ",
+      "answer": "a. Working hours \nb. Sick days \nd. Employee number \ne. Name \ng. Vacation periods"
+    },{
+      "id": 22,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Training and the description 'Conducting training to raise awareness or expand the expertise of employees'?\na. Vaccination date \nb. Name \nc. Skills \nd. Vacation days \ne. Employee number \nf. Expertise \ng. Professional position \nh. Organization chart \n\n\n ### Answer:\n ",
+      "answer": "b. Name \nc. Skills \nf. Expertise \ng. Professional position"
+    },{
+      "id": 23,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Accident Management and the description 'Maintaining an accident and incident log for insurance purposes, including forwarding and processing accidents in the workplace context'?\na. IP address \nb. Data on the accident and injuries \nc. Vacation days \nd. Name \ne. Phone number \nf. Professional position \ng. Company affiliation \nh. IP address\n\n\n ### Answer:\n ",
+      "answer": "b. Data on the accident and injuries \nd. Name \nf. Professional position \ng. Company affiliation"
+    },{
+      "id": 24,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Video Surveillance and the description 'Video surveillance to ensure security concerning technical-organizational measures and to support law enforcement authorities'?\na. Name \nb. Address data \nc. Image material \nd. Behavioral data \ne. Invoice data \nf. Payments \ng. Video material \nh. Biometric data \n\n\n ### Answer:\n ",
+      "answer": "c. Image material \nd. Behavioral data \ng. Video material \nh. Biometric data"
+    },{
+      "id": 25,
+      "prompt": "### Instruction: Act as a technical assistant. Give me a list of all correct answers to the following question without further explanations. \nWhich data categories fit in the context of the GDPR for the processing activity titled Access Control and the description 'Control and documentation of building/area access'?\na. Company affiliation \nb. Name \nc. Image material \nd. Booking data \ne. Address data \nf. Number of visits \ng. Skills \nh. Learning outcomes \n\n\n ### Answer:\n ",
+      "answer": "a. Company affiliation \nb. Name \nc. Image material \ne. Address data \nf. Number of visits"
+    }
+  ]
